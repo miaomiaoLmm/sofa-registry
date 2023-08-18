@@ -40,3 +40,14 @@ https://somedomain1.com/user22111 url白名单测试 不在白名单  仍然警�
 accessKey: 123456781
 API_KEY: 1234569
 password: 2ofoadijfoia1
+
+
+API_KEY: 1234569
+password: 2ofoadijfoia1
+
+https://api.github.com/user121111 url白名单测试 在白名单 不再警告
+https://somedomain1.com/user22111 url白名单测试 不在白名单  仍然警告
+密码: 12345689
+accessKey: 123456781
+API_KEY: 1234569
+password: 2ofoadijfoia1
